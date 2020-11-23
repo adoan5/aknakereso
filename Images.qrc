@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/mineImages">
+        <file>mineImages/flag.png</file>
+        <file>mineImages/mineImage.png</file>
+        <file>mineImages/basic.png</file>
+    </qresource>
+</RCC>
